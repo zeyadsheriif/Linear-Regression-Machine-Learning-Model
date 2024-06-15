@@ -1,7 +1,7 @@
 # Linear-Regression-Machine-Learning-Model
 The Project Consists of 3 parts:
 
-Part1 [Prediction]:
+Part1 [Prediction]: 
 
 1-Define any linear equation of one variable (e.g. y = 3x+2)
 
